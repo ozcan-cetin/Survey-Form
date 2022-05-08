@@ -1,0 +1,19 @@
+header .title{
+    font-size: 75px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+header p{
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+form p{
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+.button{
+    cursor: pointer;
+}
